@@ -1,5 +1,5 @@
-#include "bakeoffcpp.h"
+#include "hello.h"
 
 int main() {
-    bakeoffcpp();
+    hello();
 }

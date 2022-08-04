@@ -1,6 +1,6 @@
 #pragma once
 
-#ifdef WIN32
+#ifdef _WIN32
   #define bakeoffcpp_EXPORT __declspec(dllexport)
 #else
   #define bakeoffcpp_EXPORT
